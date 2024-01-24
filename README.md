@@ -1,2 +1,2 @@
-# Database-Design-and-ETL-Practice
+# Database Design, ETL and some Analytics
 hello
